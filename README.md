@@ -59,7 +59,7 @@ Google Colaboratory · Visual Studio Code · Anaconda Spyder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenylopez-data-analyst/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://sites.google.com/view/portafolio-keny-lpez/inicio)
-[![CV](https://img.shields.io/badge/Ver_CV-FF0000?style=flat&logo=adobeacrobatreader&logoColor=white)]("Próximamente")
+[![CV](https://img.shields.io/badge/Ver_CV-FF0000?style=flat&logo=adobeacrobatreader&logoColor=white)](KENY_ISAIAS_LOPEZ_CORRALES_CV.pdf)
 
 📧 kenylopez.analytic@gmail.com
 📍 Tegucigalpa, Honduras | Disponible para trabajo remoto
